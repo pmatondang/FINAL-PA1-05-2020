@@ -1,0 +1,40 @@
+UKM ini telah banyak mengalami perkembangan dengan mengikuti berbagai kegiatan 
+kompetisi yang mengasah minat bakat mahasiswa Institut Teknologi Del. 
+Salah satunya kompetisi yang pernah diikuti adalah Kontes Robot Indonesia 
+yang diselenggarakan di Universitas Dian Nuswantoro Semarang pada tanggal 20-23 Juni 2019 lalu.
+Kategori lomba yang diikuti IT Del adalah Kontes Robot Tematik Indonesia (KRMTI). 
+Momen ini merupakan salah satu hal istimewa bagi IT Del terutama anggota Del Robotic Club. 
+Kenapa tidak? Ini merupakan kali pertama Unit Kegiatan Mahasiswa di bidang 
+Robotic Club IT Del berhasil lolos sampai tingkat Nasional setelah pertama kali 
+berpartisipasi pada tahun 2018.
+<br><br>
+Untuk dapat mengikuti kegiatan Kontes Robot Indonesia tingkat Regional, setiap tim 
+calon peserta mengajukan proposal yang ditujukan ke Panitia Pusat KRI dengan persetujuan 
+Wakil Rektor/Ketua/Direktur Bidang Kemahasiswaan masing-masing Perguruan Tinggi. 
+Tim yang telah lolos Tahap Seleksi Proposal mempersiapkan robotnya untuk Evaluasi Tahap Kedua, 
+dengan menyampaikan laporan kemajuan pembuatan robot. Tim yang lolos Evaluasi 
+Tahap Kedua berhak mengikuti KRI Tingkat Nasional.
+<br><br>
+Berikut adalah beberapa anggota tim DRC yang ikut bertanding :<br>
+<table style="text-align:justify;color:black;">
+ <tr>
+   <td>Pembina</td>
+   <td>&emsp;:&emsp;</td>
+   <td>Indra Hartarto Tambunan, Ph.D</td>
+ </tr>
+ <tr>
+   <td>Ketua tim</td>
+   <td>&emsp;:&emsp;</td>
+   <td>Andi Lumbanraja(S1 Teknik Elektro)</td>
+ </tr>
+</table>
+<br>
+<p style="text-align:justify;color:black;">
+Mekanik &emsp;&emsp;&emsp;: <br>
+1. Josua Siagian (S1 Teknik Elektro)<br>
+2. Risky Siahaan(S1 Teknik Elektro)<br><br>
+
+Programmer &emsp;:<br>
+1. Friska Sianturi (D3 Teknik Informatika)<br>
+2. Wendi Situmeang (D3 Teknik Komputer)<br>
+</p>
